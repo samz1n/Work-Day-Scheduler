@@ -16,6 +16,8 @@ $("#14").val(localStorage.getItem("14"))
 $("#15").val(localStorage.getItem("15"))
 $("#16").val(localStorage.getItem("16"))
 $("#17").val(localStorage.getItem("17"))
+$("#18").val(localStorage.getItem("18"))
+
 
 function hourUpdater() {
     var presentTime = moment().hours();
