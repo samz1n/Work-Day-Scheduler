@@ -10,3 +10,7 @@ https://samz1n.github.io/Work-Day-Scheduler/
 * When save is clicked the text is saved in local storage for that event,
 * When page is refreshed the text and content remains.
  <img src="./assets/deployedapp.PNG"/>
+
+
+## Contact Information
+samisen00@hotmail.com
