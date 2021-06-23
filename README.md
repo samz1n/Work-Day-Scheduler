@@ -14,3 +14,5 @@ https://samz1n.github.io/Work-Day-Scheduler/
 
 ## Contact Information
 samisen00@hotmail.com
+
+MIT License
